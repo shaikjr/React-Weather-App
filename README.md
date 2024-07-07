@@ -23,3 +23,5 @@ A React-based weather application that allows users to search for the current we
    ```bash
    git clone https://github.com/your-username/weather-app.git
    cd weather-app
+## Live
+   https://tinyurl.com/shaiksweather
